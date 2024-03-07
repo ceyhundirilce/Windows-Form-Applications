@@ -1,0 +1,30 @@
+C:\Users\CEYHUN\source\repos\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe.config
+C:\Users\CEYHUN\source\repos\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe
+C:\Users\CEYHUN\source\repos\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.pdb
+C:\Users\CEYHUN\source\repos\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Form1.resources
+C:\Users\CEYHUN\source\repos\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Properties.Resources.resources
+C:\Users\CEYHUN\source\repos\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.GenerateResource.cache
+C:\Users\CEYHUN\source\repos\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\CEYHUN\source\repos\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.exe
+C:\Users\CEYHUN\source\repos\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.pdb
+C:\Users\CEYHUN\Desktop\Dersler\Console App Örnekleri\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe.config
+C:\Users\CEYHUN\Desktop\Dersler\Console App Örnekleri\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe
+C:\Users\CEYHUN\Desktop\Dersler\Console App Örnekleri\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.pdb
+C:\Users\CEYHUN\Desktop\Dersler\Console App Örnekleri\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.AssemblyReference.cache
+C:\Users\CEYHUN\Desktop\Dersler\Console App Örnekleri\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\CEYHUN\Desktop\Dersler\Console App Örnekleri\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Form1.resources
+C:\Users\CEYHUN\Desktop\Dersler\Console App Örnekleri\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Properties.Resources.resources
+C:\Users\CEYHUN\Desktop\Dersler\Console App Örnekleri\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.GenerateResource.cache
+C:\Users\CEYHUN\Desktop\Dersler\Console App Örnekleri\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\CEYHUN\Desktop\Dersler\Console App Örnekleri\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.exe
+C:\Users\CEYHUN\Desktop\Dersler\Console App Örnekleri\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.pdb
+D:\Dersler\Console App Örnekleri\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe.config
+D:\Dersler\Console App Örnekleri\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe
+D:\Dersler\Console App Örnekleri\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.pdb
+D:\Dersler\Console App Örnekleri\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.AssemblyReference.cache
+D:\Dersler\Console App Örnekleri\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Form1.resources
+D:\Dersler\Console App Örnekleri\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Properties.Resources.resources
+D:\Dersler\Console App Örnekleri\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.GenerateResource.cache
+D:\Dersler\Console App Örnekleri\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.CoreCompileInputs.cache
+D:\Dersler\Console App Örnekleri\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.exe
+D:\Dersler\Console App Örnekleri\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.pdb
