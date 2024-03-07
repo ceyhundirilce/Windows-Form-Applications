@@ -1,0 +1,48 @@
+c:\users\b203-01\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\b203-01\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\b203-01\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\b203-01\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\b203-01\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\b203-01\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\b203-01\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\b203-01\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+c:\users\b203-01\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.AssemblyReference.cache
+D:\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.AssemblyReference.cache
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Dersler\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Dersler\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Dersler\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Dersler\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.AssemblyReference.cache
+D:\Dersler\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Dersler\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Dersler\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\Dersler\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\Dersler\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Dersler\11. sınıf örnek kodlar\30.10.19 ışığa duyarlı şifre\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

@@ -1,0 +1,55 @@
+D:\form\NA\NA\bin\Debug\NA.exe.config
+D:\form\NA\NA\bin\Debug\NA.exe
+D:\form\NA\NA\bin\Debug\NA.pdb
+D:\form\NA\NA\obj\Debug\NA.Form1.resources
+D:\form\NA\NA\obj\Debug\NA.Properties.Resources.resources
+D:\form\NA\NA\obj\Debug\NA.csproj.GenerateResource.Cache
+D:\form\NA\NA\obj\Debug\NA.exe
+D:\form\NA\NA\obj\Debug\NA.pdb
+D:\form\NA\NA\obj\Debug\NA.csprojResolveAssemblyReference.cache
+D:\noti\NA\bin\Debug\NA.exe.config
+D:\noti\NA\obj\Debug\NA.exe
+D:\noti\NA\obj\Debug\NA.pdb
+D:\noti\NA\bin\Debug\NA.exe
+D:\noti\NA\bin\Debug\NA.pdb
+D:\noti\NA\obj\Debug\NA.csprojResolveAssemblyReference.cache
+D:\noti\NA\obj\Debug\NA.Form1.resources
+D:\noti\NA\obj\Debug\NA.Properties.Resources.resources
+D:\noti\NA\obj\Debug\NA.csproj.GenerateResource.Cache
+E:\noti\NA\bin\Debug\NA.exe.config
+E:\noti\NA\obj\Debug\NA.exe
+E:\noti\NA\obj\Debug\NA.pdb
+E:\noti\NA\bin\Debug\NA.exe
+E:\noti\NA\bin\Debug\NA.pdb
+E:\noti\NA\obj\Debug\NA.csprojResolveAssemblyReference.cache
+E:\noti\NA\obj\Debug\NA.Form1.resources
+E:\noti\NA\obj\Debug\NA.Properties.Resources.resources
+E:\noti\NA\obj\Debug\NA.csproj.GenerateResource.Cache
+E:\2.12.19\NA\bin\Debug\NA.exe.config
+E:\2.12.19\NA\obj\Debug\NA.exe
+E:\2.12.19\NA\obj\Debug\NA.pdb
+E:\2.12.19 notifyIcon\NA\bin\Debug\NA.exe.config
+E:\2.12.19 notifyIcon\NA\obj\Debug\NA.exe
+E:\2.12.19 notifyIcon\NA\obj\Debug\NA.pdb
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\11. Sınıf FORM\ARALIK Ayı Çalışmaları\2.12.19 notifyIcon\NA\bin\Debug\NA.exe.config
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\11. Sınıf FORM\ARALIK Ayı Çalışmaları\2.12.19 notifyIcon\NA\obj\Debug\NA.exe
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\11. Sınıf FORM\ARALIK Ayı Çalışmaları\2.12.19 notifyIcon\NA\obj\Debug\NA.pdb
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\11. Sınıf FORM\ARALIK Ayı Çalışmaları\2.12.19 notifyIcon\NA\bin\Debug\NA.exe
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\11. Sınıf FORM\ARALIK Ayı Çalışmaları\2.12.19 notifyIcon\NA\bin\Debug\NA.pdb
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\11. Sınıf FORM\ARALIK Ayı Çalışmaları\2.12.19 notifyIcon\NA\obj\Debug\NA.csprojResolveAssemblyReference.cache
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\11. Sınıf FORM\ARALIK Ayı Çalışmaları\2.12.19 notifyIcon\NA\obj\Debug\NA.Form1.resources
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\11. Sınıf FORM\ARALIK Ayı Çalışmaları\2.12.19 notifyIcon\NA\obj\Debug\NA.Properties.Resources.resources
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\11. Sınıf FORM\ARALIK Ayı Çalışmaları\2.12.19 notifyIcon\NA\obj\Debug\NA.csproj.GenerateResource.Cache
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\2.12.19 notifyIcon\NA\bin\Debug\NA.exe.config
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\2.12.19 notifyIcon\NA\obj\Debug\NA.exe
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\2.12.19 notifyIcon\NA\obj\Debug\NA.pdb
+D:\Dersler\11. sınıf örnek kodlar\2.12.19 notifyIcon\NA\bin\Debug\NA.exe.config
+D:\Dersler\11. sınıf örnek kodlar\2.12.19 notifyIcon\NA\bin\Debug\NA.exe
+D:\Dersler\11. sınıf örnek kodlar\2.12.19 notifyIcon\NA\bin\Debug\NA.pdb
+D:\Dersler\11. sınıf örnek kodlar\2.12.19 notifyIcon\NA\obj\Debug\NA.csproj.AssemblyReference.cache
+D:\Dersler\11. sınıf örnek kodlar\2.12.19 notifyIcon\NA\obj\Debug\NA.Form1.resources
+D:\Dersler\11. sınıf örnek kodlar\2.12.19 notifyIcon\NA\obj\Debug\NA.Properties.Resources.resources
+D:\Dersler\11. sınıf örnek kodlar\2.12.19 notifyIcon\NA\obj\Debug\NA.csproj.GenerateResource.cache
+D:\Dersler\11. sınıf örnek kodlar\2.12.19 notifyIcon\NA\obj\Debug\NA.csproj.CoreCompileInputs.cache
+D:\Dersler\11. sınıf örnek kodlar\2.12.19 notifyIcon\NA\obj\Debug\NA.exe
+D:\Dersler\11. sınıf örnek kodlar\2.12.19 notifyIcon\NA\obj\Debug\NA.pdb

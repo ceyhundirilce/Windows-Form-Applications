@@ -1,0 +1,21 @@
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\rastgele sayı artan azalan\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\rastgele sayı artan azalan\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\rastgele sayı artan azalan\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb
+D:\Dersler\11. sınıf örnek kodlar\Yeni klasör\rastgele sayı artan azalan\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+D:\Dersler\11. sınıf örnek kodlar\Yeni klasör\rastgele sayı artan azalan\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+D:\Dersler\11. sınıf örnek kodlar\Yeni klasör\rastgele sayı artan azalan\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+D:\Dersler\11. sınıf örnek kodlar\Yeni klasör\rastgele sayı artan azalan\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.AssemblyReference.cache
+D:\Dersler\11. sınıf örnek kodlar\Yeni klasör\rastgele sayı artan azalan\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+D:\Dersler\11. sınıf örnek kodlar\Yeni klasör\rastgele sayı artan azalan\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+D:\Dersler\11. sınıf örnek kodlar\Yeni klasör\rastgele sayı artan azalan\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.cache
+D:\Dersler\11. sınıf örnek kodlar\Yeni klasör\rastgele sayı artan azalan\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.CoreCompileInputs.cache
+D:\Dersler\11. sınıf örnek kodlar\Yeni klasör\rastgele sayı artan azalan\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+D:\Dersler\11. sınıf örnek kodlar\Yeni klasör\rastgele sayı artan azalan\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb

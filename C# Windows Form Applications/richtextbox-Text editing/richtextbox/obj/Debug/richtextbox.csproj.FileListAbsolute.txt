@@ -1,0 +1,31 @@
+G:\BURAK\Nesne\8. hafta\richtextbox\richtextbox\bin\Debug\richtextbox.exe.config
+G:\BURAK\Nesne\8. hafta\richtextbox\richtextbox\bin\Debug\richtextbox.exe
+G:\BURAK\Nesne\8. hafta\richtextbox\richtextbox\bin\Debug\richtextbox.pdb
+G:\BURAK\Nesne\8. hafta\richtextbox\richtextbox\obj\Debug\richtextbox.csprojResolveAssemblyReference.cache
+G:\BURAK\Nesne\8. hafta\richtextbox\richtextbox\obj\Debug\richtextbox.Form1.resources
+G:\BURAK\Nesne\8. hafta\richtextbox\richtextbox\obj\Debug\richtextbox.Properties.Resources.resources
+G:\BURAK\Nesne\8. hafta\richtextbox\richtextbox\obj\Debug\richtextbox.csproj.GenerateResource.Cache
+G:\BURAK\Nesne\8. hafta\richtextbox\richtextbox\obj\Debug\richtextbox.exe
+G:\BURAK\Nesne\8. hafta\richtextbox\richtextbox\obj\Debug\richtextbox.pdb
+E:\2.12.19 richtextbox\richtextbox\bin\Debug\richtextbox.exe.config
+E:\2.12.19 richtextbox\richtextbox\obj\Debug\richtextbox.exe
+E:\2.12.19 richtextbox\richtextbox\obj\Debug\richtextbox.pdb
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\2.12.19 richtextbox\richtextbox\bin\Debug\richtextbox.exe.config
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\2.12.19 richtextbox\richtextbox\obj\Debug\richtextbox.exe
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\2.12.19 richtextbox\richtextbox\obj\Debug\richtextbox.pdb
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\2.12.19 richtextbox\richtextbox\bin\Debug\richtextbox.exe
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\2.12.19 richtextbox\richtextbox\bin\Debug\richtextbox.pdb
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\2.12.19 richtextbox\richtextbox\obj\Debug\richtextbox.csprojResolveAssemblyReference.cache
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\2.12.19 richtextbox\richtextbox\obj\Debug\richtextbox.Form1.resources
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\2.12.19 richtextbox\richtextbox\obj\Debug\richtextbox.Properties.Resources.resources
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\2.12.19 richtextbox\richtextbox\obj\Debug\richtextbox.csproj.GenerateResource.Cache
+D:\Dersler\11. sınıf örnek kodlar\2.12.19 richtextbox\richtextbox\bin\Debug\richtextbox.exe.config
+D:\Dersler\11. sınıf örnek kodlar\2.12.19 richtextbox\richtextbox\bin\Debug\richtextbox.exe
+D:\Dersler\11. sınıf örnek kodlar\2.12.19 richtextbox\richtextbox\bin\Debug\richtextbox.pdb
+D:\Dersler\11. sınıf örnek kodlar\2.12.19 richtextbox\richtextbox\obj\Debug\richtextbox.csproj.AssemblyReference.cache
+D:\Dersler\11. sınıf örnek kodlar\2.12.19 richtextbox\richtextbox\obj\Debug\richtextbox.Form1.resources
+D:\Dersler\11. sınıf örnek kodlar\2.12.19 richtextbox\richtextbox\obj\Debug\richtextbox.Properties.Resources.resources
+D:\Dersler\11. sınıf örnek kodlar\2.12.19 richtextbox\richtextbox\obj\Debug\richtextbox.csproj.GenerateResource.cache
+D:\Dersler\11. sınıf örnek kodlar\2.12.19 richtextbox\richtextbox\obj\Debug\richtextbox.csproj.CoreCompileInputs.cache
+D:\Dersler\11. sınıf örnek kodlar\2.12.19 richtextbox\richtextbox\obj\Debug\richtextbox.exe
+D:\Dersler\11. sınıf örnek kodlar\2.12.19 richtextbox\richtextbox\obj\Debug\richtextbox.pdb

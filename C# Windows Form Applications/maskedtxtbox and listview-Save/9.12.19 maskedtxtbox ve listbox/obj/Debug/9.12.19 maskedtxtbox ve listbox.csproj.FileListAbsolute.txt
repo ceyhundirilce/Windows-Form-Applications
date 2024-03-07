@@ -1,0 +1,31 @@
+c:\users\b203-01\documents\visual studio 2015\Projects\9.12.19 maskedtxtbox ve listbox\9.12.19 maskedtxtbox ve listbox\bin\Debug\9.12.19 maskedtxtbox ve listbox.exe.config
+c:\users\b203-01\documents\visual studio 2015\Projects\9.12.19 maskedtxtbox ve listbox\9.12.19 maskedtxtbox ve listbox\bin\Debug\9.12.19 maskedtxtbox ve listbox.exe
+c:\users\b203-01\documents\visual studio 2015\Projects\9.12.19 maskedtxtbox ve listbox\9.12.19 maskedtxtbox ve listbox\bin\Debug\9.12.19 maskedtxtbox ve listbox.pdb
+c:\users\b203-01\documents\visual studio 2015\Projects\9.12.19 maskedtxtbox ve listbox\9.12.19 maskedtxtbox ve listbox\obj\Debug\9.12.19 maskedtxtbox ve listbox.csprojResolveAssemblyReference.cache
+c:\users\b203-01\documents\visual studio 2015\Projects\9.12.19 maskedtxtbox ve listbox\9.12.19 maskedtxtbox ve listbox\obj\Debug\_9._12._19_maskedtxtbox_ve_listbox.Form1.resources
+c:\users\b203-01\documents\visual studio 2015\Projects\9.12.19 maskedtxtbox ve listbox\9.12.19 maskedtxtbox ve listbox\obj\Debug\_9._12._19_maskedtxtbox_ve_listbox.Properties.Resources.resources
+c:\users\b203-01\documents\visual studio 2015\Projects\9.12.19 maskedtxtbox ve listbox\9.12.19 maskedtxtbox ve listbox\obj\Debug\9.12.19 maskedtxtbox ve listbox.csproj.GenerateResource.Cache
+c:\users\b203-01\documents\visual studio 2015\Projects\9.12.19 maskedtxtbox ve listbox\9.12.19 maskedtxtbox ve listbox\obj\Debug\9.12.19 maskedtxtbox ve listbox.exe
+c:\users\b203-01\documents\visual studio 2015\Projects\9.12.19 maskedtxtbox ve listbox\9.12.19 maskedtxtbox ve listbox\obj\Debug\9.12.19 maskedtxtbox ve listbox.pdb
+F:\11. Sınıf FORM\ARALIK Ayı Çalışmaları\9.12.19 maskedtxtbox ve listview\9.12.19 maskedtxtbox ve listbox\bin\Debug\9.12.19 maskedtxtbox ve listbox.exe.config
+F:\11. Sınıf FORM\ARALIK Ayı Çalışmaları\9.12.19 maskedtxtbox ve listview\9.12.19 maskedtxtbox ve listbox\obj\Debug\9.12.19 maskedtxtbox ve listbox.exe
+F:\11. Sınıf FORM\ARALIK Ayı Çalışmaları\9.12.19 maskedtxtbox ve listview\9.12.19 maskedtxtbox ve listbox\obj\Debug\9.12.19 maskedtxtbox ve listbox.pdb
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\11. Sınıf FORM\ARALIK Ayı Çalışmaları\9.12.19 maskedtxtbox ve listview\9.12.19 maskedtxtbox ve listbox\bin\Debug\9.12.19 maskedtxtbox ve listbox.exe.config
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\11. Sınıf FORM\ARALIK Ayı Çalışmaları\9.12.19 maskedtxtbox ve listview\9.12.19 maskedtxtbox ve listbox\obj\Debug\9.12.19 maskedtxtbox ve listbox.exe
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\11. Sınıf FORM\ARALIK Ayı Çalışmaları\9.12.19 maskedtxtbox ve listview\9.12.19 maskedtxtbox ve listbox\obj\Debug\9.12.19 maskedtxtbox ve listbox.pdb
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\11. Sınıf FORM\ARALIK Ayı Çalışmaları\9.12.19 maskedtxtbox ve listview\9.12.19 maskedtxtbox ve listbox\bin\Debug\9.12.19 maskedtxtbox ve listbox.exe
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\11. Sınıf FORM\ARALIK Ayı Çalışmaları\9.12.19 maskedtxtbox ve listview\9.12.19 maskedtxtbox ve listbox\bin\Debug\9.12.19 maskedtxtbox ve listbox.pdb
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\11. Sınıf FORM\ARALIK Ayı Çalışmaları\9.12.19 maskedtxtbox ve listview\9.12.19 maskedtxtbox ve listbox\obj\Debug\9.12.19 maskedtxtbox ve listbox.csprojResolveAssemblyReference.cache
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\11. Sınıf FORM\ARALIK Ayı Çalışmaları\9.12.19 maskedtxtbox ve listview\9.12.19 maskedtxtbox ve listbox\obj\Debug\_9._12._19_maskedtxtbox_ve_listbox.Form1.resources
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\11. Sınıf FORM\ARALIK Ayı Çalışmaları\9.12.19 maskedtxtbox ve listview\9.12.19 maskedtxtbox ve listbox\obj\Debug\_9._12._19_maskedtxtbox_ve_listbox.Properties.Resources.resources
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\11. Sınıf FORM\ARALIK Ayı Çalışmaları\9.12.19 maskedtxtbox ve listview\9.12.19 maskedtxtbox ve listbox\obj\Debug\9.12.19 maskedtxtbox ve listbox.csproj.GenerateResource.Cache
+D:\Dersler\11. sınıf örnek kodlar\9.12.19 maskedtxtbox ve listview\9.12.19 maskedtxtbox ve listbox\bin\Debug\9.12.19 maskedtxtbox ve listbox.exe.config
+D:\Dersler\11. sınıf örnek kodlar\9.12.19 maskedtxtbox ve listview\9.12.19 maskedtxtbox ve listbox\bin\Debug\9.12.19 maskedtxtbox ve listbox.exe
+D:\Dersler\11. sınıf örnek kodlar\9.12.19 maskedtxtbox ve listview\9.12.19 maskedtxtbox ve listbox\bin\Debug\9.12.19 maskedtxtbox ve listbox.pdb
+D:\Dersler\11. sınıf örnek kodlar\9.12.19 maskedtxtbox ve listview\9.12.19 maskedtxtbox ve listbox\obj\Debug\9.12.19 maskedtxtbox ve listbox.csproj.AssemblyReference.cache
+D:\Dersler\11. sınıf örnek kodlar\9.12.19 maskedtxtbox ve listview\9.12.19 maskedtxtbox ve listbox\obj\Debug\_9._12._19_maskedtxtbox_ve_listbox.Form1.resources
+D:\Dersler\11. sınıf örnek kodlar\9.12.19 maskedtxtbox ve listview\9.12.19 maskedtxtbox ve listbox\obj\Debug\_9._12._19_maskedtxtbox_ve_listbox.Properties.Resources.resources
+D:\Dersler\11. sınıf örnek kodlar\9.12.19 maskedtxtbox ve listview\9.12.19 maskedtxtbox ve listbox\obj\Debug\9.12.19 maskedtxtbox ve listbox.csproj.GenerateResource.cache
+D:\Dersler\11. sınıf örnek kodlar\9.12.19 maskedtxtbox ve listview\9.12.19 maskedtxtbox ve listbox\obj\Debug\9.12.19 maskedtxtbox ve listbox.csproj.CoreCompileInputs.cache
+D:\Dersler\11. sınıf örnek kodlar\9.12.19 maskedtxtbox ve listview\9.12.19 maskedtxtbox ve listbox\obj\Debug\9.12.19 maskedtxtbox ve listbox.exe
+D:\Dersler\11. sınıf örnek kodlar\9.12.19 maskedtxtbox ve listview\9.12.19 maskedtxtbox ve listbox\obj\Debug\9.12.19 maskedtxtbox ve listbox.pdb

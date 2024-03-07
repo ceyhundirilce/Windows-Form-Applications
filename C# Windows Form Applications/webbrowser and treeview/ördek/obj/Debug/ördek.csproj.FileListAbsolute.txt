@@ -1,0 +1,29 @@
+c:\users\b203-01\documents\visual studio 2015\Projects\ördek\ördek\bin\Debug\ördek.exe.config
+c:\users\b203-01\documents\visual studio 2015\Projects\ördek\ördek\bin\Debug\ördek.exe
+c:\users\b203-01\documents\visual studio 2015\Projects\ördek\ördek\bin\Debug\ördek.pdb
+c:\users\b203-01\documents\visual studio 2015\Projects\ördek\ördek\obj\Debug\ördek.csprojResolveAssemblyReference.cache
+c:\users\b203-01\documents\visual studio 2015\Projects\ördek\ördek\obj\Debug\ördek.Form1.resources
+c:\users\b203-01\documents\visual studio 2015\Projects\ördek\ördek\obj\Debug\ördek.Properties.Resources.resources
+c:\users\b203-01\documents\visual studio 2015\Projects\ördek\ördek\obj\Debug\ördek.csproj.GenerateResource.Cache
+c:\users\b203-01\documents\visual studio 2015\Projects\ördek\ördek\obj\Debug\ördek.exe
+c:\users\b203-01\documents\visual studio 2015\Projects\ördek\ördek\obj\Debug\ördek.pdb
+E:\ördek\ördek\bin\Debug\ördek.exe.config
+E:\ördek\ördek\obj\Debug\ördek.exe
+E:\ördek\ördek\obj\Debug\ördek.pdb
+E:\ördek\ördek\bin\Debug\ördek.exe
+E:\ördek\ördek\bin\Debug\ördek.pdb
+E:\ördek\ördek\obj\Debug\ördek.csprojResolveAssemblyReference.cache
+E:\ördek\ördek\obj\Debug\ördek.Form1.resources
+E:\ördek\ördek\obj\Debug\ördek.Properties.Resources.resources
+E:\ördek\ördek\obj\Debug\ördek.csproj.GenerateResource.Cache
+F:\11. Sınıf FORM\ARALIK Ayı Çalışmaları\9.12.19 webbrowser treeview\ördek\bin\Debug\ördek.exe.config
+F:\11. Sınıf FORM\ARALIK Ayı Çalışmaları\9.12.19 webbrowser treeview\ördek\obj\Debug\ördek.exe
+F:\11. Sınıf FORM\ARALIK Ayı Çalışmaları\9.12.19 webbrowser treeview\ördek\obj\Debug\ördek.pdb
+D:\Dersler\11. sınıf örnek kodlar\9.12.19 webbrowser treeview\ördek\obj\Debug\ördek.csproj.AssemblyReference.cache
+D:\Dersler\11. sınıf örnek kodlar\9.12.19 webbrowser treeview\ördek\obj\Debug\ördek.Form1.resources
+D:\Dersler\11. sınıf örnek kodlar\9.12.19 webbrowser treeview\ördek\obj\Debug\ördek.Form2.resources
+D:\Dersler\11. sınıf örnek kodlar\9.12.19 webbrowser treeview\ördek\obj\Debug\ördek.Properties.Resources.resources
+D:\Dersler\11. sınıf örnek kodlar\9.12.19 webbrowser treeview\ördek\obj\Debug\ördek.csproj.GenerateResource.cache
+D:\Dersler\11. sınıf örnek kodlar\9.12.19 webbrowser treeview\ördek\obj\Debug\ördek.csproj.CoreCompileInputs.cache
+D:\Dersler\11. sınıf örnek kodlar\9.12.19 webbrowser treeview\ördek\obj\Debug\ördek.exe
+D:\Dersler\11. sınıf örnek kodlar\9.12.19 webbrowser treeview\ördek\obj\Debug\ördek.pdb

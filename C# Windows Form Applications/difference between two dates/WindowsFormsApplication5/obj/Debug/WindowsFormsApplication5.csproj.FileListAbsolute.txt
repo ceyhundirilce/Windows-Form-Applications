@@ -1,0 +1,19 @@
+c:\users\b203-01\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+c:\users\b203-01\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+c:\users\b203-01\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+c:\users\b203-01\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csprojResolveAssemblyReference.cache
+c:\users\b203-01\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+c:\users\b203-01\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+c:\users\b203-01\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+c:\users\b203-01\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+c:\users\b203-01\documents\visual studio 2015\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+D:\Dersler\11. sınıf örnek kodlar\Yeni klasör\iki tarih farkı\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+D:\Dersler\11. sınıf örnek kodlar\Yeni klasör\iki tarih farkı\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+D:\Dersler\11. sınıf örnek kodlar\Yeni klasör\iki tarih farkı\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+D:\Dersler\11. sınıf örnek kodlar\Yeni klasör\iki tarih farkı\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.AssemblyReference.cache
+D:\Dersler\11. sınıf örnek kodlar\Yeni klasör\iki tarih farkı\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+D:\Dersler\11. sınıf örnek kodlar\Yeni klasör\iki tarih farkı\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+D:\Dersler\11. sınıf örnek kodlar\Yeni klasör\iki tarih farkı\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.cache
+D:\Dersler\11. sınıf örnek kodlar\Yeni klasör\iki tarih farkı\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.CoreCompileInputs.cache
+D:\Dersler\11. sınıf örnek kodlar\Yeni klasör\iki tarih farkı\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+D:\Dersler\11. sınıf örnek kodlar\Yeni klasör\iki tarih farkı\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb

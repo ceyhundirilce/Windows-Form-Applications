@@ -1,0 +1,79 @@
+c:\users\ahmet\documents\visual studio 2013\Projects\veribaglanti1\veribaglanti1\bin\Debug\veribaglanti1.exe.config
+c:\users\ahmet\documents\visual studio 2013\Projects\veribaglanti1\veribaglanti1\bin\Debug\veribaglanti1.exe
+c:\users\ahmet\documents\visual studio 2013\Projects\veribaglanti1\veribaglanti1\bin\Debug\veribaglanti1.pdb
+c:\users\ahmet\documents\visual studio 2013\Projects\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.csprojResolveAssemblyReference.cache
+c:\users\ahmet\documents\visual studio 2013\Projects\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.Form1.resources
+c:\users\ahmet\documents\visual studio 2013\Projects\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.Properties.Resources.resources
+c:\users\ahmet\documents\visual studio 2013\Projects\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.csproj.GenerateResource.Cache
+c:\users\ahmet\documents\visual studio 2013\Projects\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.exe
+c:\users\ahmet\documents\visual studio 2013\Projects\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.pdb
+C:\Users\bb\Desktop\veribaglanti1\veribaglanti1\bin\Debug\veribaglanti1.exe.config
+C:\Users\bb\Desktop\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.exe
+C:\Users\bb\Desktop\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.pdb
+C:\Users\bb\Desktop\veribaglanti1\veribaglanti1\bin\Debug\veribaglanti1.exe
+C:\Users\bb\Desktop\veribaglanti1\veribaglanti1\bin\Debug\veribaglanti1.pdb
+C:\Users\bb\Desktop\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.csprojResolveAssemblyReference.cache
+C:\Users\bb\Desktop\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.Form1.resources
+C:\Users\bb\Desktop\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.Properties.Resources.resources
+C:\Users\bb\Desktop\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.csproj.GenerateResource.Cache
+C:\Users\Ahmet\Desktop\veribaglanti1\veribaglanti1\bin\Debug\veribaglanti1.exe.config
+C:\Users\Ahmet\Desktop\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.exe
+C:\Users\Ahmet\Desktop\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.pdb
+C:\Users\Ahmet\Desktop\veribaglanti1\veribaglanti1\bin\Debug\veribaglanti1.exe
+C:\Users\Ahmet\Desktop\veribaglanti1\veribaglanti1\bin\Debug\veribaglanti1.pdb
+C:\Users\Ahmet\Desktop\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet\Desktop\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.Form1.resources
+C:\Users\Ahmet\Desktop\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.Properties.Resources.resources
+C:\Users\Ahmet\Desktop\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.csproj.GenerateResource.Cache
+C:\Users\b203-01\Desktop\veribaglanti1\veribaglanti1\bin\Debug\veribaglanti1.exe.config
+C:\Users\b203-01\Desktop\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.exe
+C:\Users\b203-01\Desktop\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.pdb
+C:\Users\b203-01\Desktop\veribaglanti1\veribaglanti1\bin\Debug\veribaglanti1.exe
+C:\Users\b203-01\Desktop\veribaglanti1\veribaglanti1\bin\Debug\veribaglanti1.pdb
+C:\Users\b203-01\Desktop\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.csprojResolveAssemblyReference.cache
+C:\Users\b203-01\Desktop\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.Form1.resources
+C:\Users\b203-01\Desktop\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.Properties.Resources.resources
+C:\Users\b203-01\Desktop\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.csproj.GenerateResource.Cache
+K:\veribaglanti1\veribaglanti1\bin\Debug\veribaglanti1.exe.config
+K:\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.exe
+K:\veribaglanti1\veribaglanti1\obj\Debug\veribaglanti1.pdb
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\4.12.19 c# access veriaktarma\veribaglanti1\bin\Debug\veribaglanti1.exe.config
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\4.12.19 c# access veriaktarma\veribaglanti1\obj\Debug\veribaglanti1.exe
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\4.12.19 c# access veriaktarma\veribaglanti1\obj\Debug\veribaglanti1.pdb
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\4.12.19 c# access veriaktarma\veribaglanti1\bin\Debug\veribaglanti1.exe
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\4.12.19 c# access veriaktarma\veribaglanti1\bin\Debug\veribaglanti1.pdb
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\4.12.19 c# access veriaktarma\veribaglanti1\obj\Debug\veribaglanti1.csprojResolveAssemblyReference.cache
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\4.12.19 c# access veriaktarma\veribaglanti1\obj\Debug\veribaglanti1.Form1.resources
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\4.12.19 c# access veriaktarma\veribaglanti1\obj\Debug\veribaglanti1.Properties.Resources.resources
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\4.12.19 c# access veriaktarma\veribaglanti1\obj\Debug\veribaglanti1.csproj.GenerateResource.Cache
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\bin\Debug\veribaglanti1.exe.config
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\bin\Debug\veribaglanti1.exe
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\bin\Debug\veribaglanti1.pdb
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\obj\Debug\veribaglanti1.csproj.AssemblyReference.cache
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\obj\Debug\veribaglanti1.Form1.resources
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\obj\Debug\veribaglanti1.Properties.Resources.resources
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\obj\Debug\veribaglanti1.csproj.GenerateResource.cache
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\obj\Debug\veribaglanti1.csproj.CoreCompileInputs.cache
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\obj\Debug\veribaglanti1.exe
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\obj\Debug\veribaglanti1.pdb
+C:\Users\CEYHUN\Desktop\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\bin\Debug\veribaglanti1.exe.config
+C:\Users\CEYHUN\Desktop\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\bin\Debug\veribaglanti1.exe
+C:\Users\CEYHUN\Desktop\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\bin\Debug\veribaglanti1.pdb
+C:\Users\CEYHUN\Desktop\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\obj\Debug\veribaglanti1.csproj.AssemblyReference.cache
+C:\Users\CEYHUN\Desktop\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\obj\Debug\veribaglanti1.csproj.SuggestedBindingRedirects.cache
+C:\Users\CEYHUN\Desktop\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\obj\Debug\veribaglanti1.Form1.resources
+C:\Users\CEYHUN\Desktop\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\obj\Debug\veribaglanti1.Properties.Resources.resources
+C:\Users\CEYHUN\Desktop\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\obj\Debug\veribaglanti1.csproj.GenerateResource.cache
+C:\Users\CEYHUN\Desktop\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\obj\Debug\veribaglanti1.csproj.CoreCompileInputs.cache
+C:\Users\CEYHUN\Desktop\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\obj\Debug\veribaglanti1.exe
+C:\Users\CEYHUN\Desktop\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\obj\Debug\veribaglanti1.pdb
+D:\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\bin\Debug\veribaglanti1.exe.config
+D:\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\bin\Debug\veribaglanti1.exe
+D:\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\bin\Debug\veribaglanti1.pdb
+D:\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\obj\Debug\veribaglanti1.csproj.AssemblyReference.cache
+D:\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\obj\Debug\veribaglanti1.Form1.resources
+D:\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\obj\Debug\veribaglanti1.Properties.Resources.resources
+D:\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\obj\Debug\veribaglanti1.csproj.GenerateResource.cache
+D:\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\obj\Debug\veribaglanti1.csproj.CoreCompileInputs.cache
+D:\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\obj\Debug\veribaglanti1.exe
+D:\Dersler\11. sınıf örnek kodlar\4.12.19 c# access veriaktarma\veribaglanti1\obj\Debug\veribaglanti1.pdb

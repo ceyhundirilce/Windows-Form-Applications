@@ -1,0 +1,61 @@
+c:\users\b203-01\documents\visual studio 2015\Projects\örnek\örnek\bin\Debug\örnek.exe.config
+c:\users\b203-01\documents\visual studio 2015\Projects\örnek\örnek\bin\Debug\örnek.exe
+c:\users\b203-01\documents\visual studio 2015\Projects\örnek\örnek\bin\Debug\örnek.pdb
+c:\users\b203-01\documents\visual studio 2015\Projects\örnek\örnek\obj\Debug\örnek.csprojResolveAssemblyReference.cache
+c:\users\b203-01\documents\visual studio 2015\Projects\örnek\örnek\obj\Debug\örnek.Form1.resources
+c:\users\b203-01\documents\visual studio 2015\Projects\örnek\örnek\obj\Debug\örnek.Properties.Resources.resources
+c:\users\b203-01\documents\visual studio 2015\Projects\örnek\örnek\obj\Debug\örnek.csproj.GenerateResource.Cache
+c:\users\b203-01\documents\visual studio 2015\Projects\örnek\örnek\obj\Debug\örnek.exe
+c:\users\b203-01\documents\visual studio 2015\Projects\örnek\örnek\obj\Debug\örnek.pdb
+D:\örnek\örnek\bin\Debug\örnek.exe.config
+D:\örnek\örnek\obj\Debug\örnek.exe
+D:\örnek\örnek\obj\Debug\örnek.pdb
+D:\örnek\örnek\bin\Debug\örnek.exe
+D:\örnek\örnek\bin\Debug\örnek.pdb
+D:\örnek\örnek\obj\Debug\örnek.csprojResolveAssemblyReference.cache
+D:\örnek\örnek\obj\Debug\örnek.Form1.resources
+D:\örnek\örnek\obj\Debug\örnek.Properties.Resources.resources
+D:\örnek\örnek\obj\Debug\örnek.csproj.GenerateResource.Cache
+J:\örnek\örnek\bin\Debug\örnek.exe.config
+J:\örnek\örnek\obj\Debug\örnek.exe
+J:\örnek\örnek\obj\Debug\örnek.pdb
+K:\örnek\örnek\bin\Debug\örnek.exe.config
+K:\örnek\örnek\obj\Debug\örnek.exe
+K:\örnek\örnek\obj\Debug\örnek.pdb
+K:\Linklabel Ödev\örnek\bin\Debug\örnek.exe.config
+K:\Linklabel Ödev\örnek\obj\Debug\örnek.exe
+K:\Linklabel Ödev\örnek\obj\Debug\örnek.pdb
+E:\Linklabel Ödev\örnek\bin\Debug\örnek.exe.config
+E:\Linklabel Ödev\örnek\obj\Debug\örnek.exe
+E:\Linklabel Ödev\örnek\obj\Debug\örnek.pdb
+E:\Linklabel Ödev\örnek\bin\Debug\örnek.exe
+E:\Linklabel Ödev\örnek\bin\Debug\örnek.pdb
+E:\Linklabel Ödev\örnek\obj\Debug\örnek.csprojResolveAssemblyReference.cache
+E:\Linklabel Ödev\örnek\obj\Debug\örnek.Form1.resources
+E:\Linklabel Ödev\örnek\obj\Debug\örnek.Properties.Resources.resources
+E:\Linklabel Ödev\örnek\obj\Debug\örnek.csproj.GenerateResource.Cache
+K:\Linklabel Ödev\örnek\bin\Debug\örnek.exe
+K:\Linklabel Ödev\örnek\bin\Debug\örnek.pdb
+K:\Linklabel Ödev\örnek\obj\Debug\örnek.csprojResolveAssemblyReference.cache
+K:\Linklabel Ödev\örnek\obj\Debug\örnek.Form1.resources
+K:\Linklabel Ödev\örnek\obj\Debug\örnek.Properties.Resources.resources
+K:\Linklabel Ödev\örnek\obj\Debug\örnek.csproj.GenerateResource.Cache
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\10.12.19 Linklabel Ödev\örnek\bin\Debug\örnek.exe.config
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\10.12.19 Linklabel Ödev\örnek\obj\Debug\örnek.exe
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\10.12.19 Linklabel Ödev\örnek\obj\Debug\örnek.pdb
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\10.12.19 Linklabel Ödev\örnek\bin\Debug\örnek.exe
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\10.12.19 Linklabel Ödev\örnek\bin\Debug\örnek.pdb
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\10.12.19 Linklabel Ödev\örnek\obj\Debug\örnek.csprojResolveAssemblyReference.cache
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\10.12.19 Linklabel Ödev\örnek\obj\Debug\örnek.Form1.resources
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\10.12.19 Linklabel Ödev\örnek\obj\Debug\örnek.Properties.Resources.resources
+C:\Users\DİLEK\Documents\Visual Studio 2015\Projects\SINAVA HAZIRLIK\10.12.19 Linklabel Ödev\örnek\obj\Debug\örnek.csproj.GenerateResource.Cache
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\10.12.19 Linklabel Ödev\örnek\bin\Debug\örnek.exe.config
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\10.12.19 Linklabel Ödev\örnek\bin\Debug\örnek.exe
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\10.12.19 Linklabel Ödev\örnek\bin\Debug\örnek.pdb
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\10.12.19 Linklabel Ödev\örnek\obj\Debug\örnek.csproj.AssemblyReference.cache
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\10.12.19 Linklabel Ödev\örnek\obj\Debug\örnek.Form1.resources
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\10.12.19 Linklabel Ödev\örnek\obj\Debug\örnek.Properties.Resources.resources
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\10.12.19 Linklabel Ödev\örnek\obj\Debug\örnek.csproj.GenerateResource.cache
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\10.12.19 Linklabel Ödev\örnek\obj\Debug\örnek.csproj.CoreCompileInputs.cache
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\10.12.19 Linklabel Ödev\örnek\obj\Debug\örnek.exe
+C:\Users\DİRİLCE\Desktop\Dersler\11. sınıf örnek kodlar\10.12.19 Linklabel Ödev\örnek\obj\Debug\örnek.pdb
